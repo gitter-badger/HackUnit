@@ -1,6 +1,8 @@
 HackUnit
 ========
 
+[![Join the chat at https://gitter.im/HackPack/HackUnit](https://badges.gitter.im/HackPack/HackUnit.svg)](https://gitter.im/HackPack/HackUnit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Testing framework written in and for [Hack.](http://hacklang.org)
 
 ### But Why?!
